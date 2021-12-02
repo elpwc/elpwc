@@ -6,8 +6,11 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend pro
 **Web**: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, etc.  
 **Desktop**: C#, C++，shell, batch, etc.  
 **Mobile**: Kotlin, Java.  
+**Other**: Photoshop, Premiem, Aegisub, etc.  
   
 🎧**Develop Env**: VSCode, Windows 10, Thinkpad, コーラ🥤たっぷりと超うめ～ぇ淡梅酒🍶  
+  
+🎈**Recently Studying**: Vocaloid x Fruit Studio, Ruby on Rails, Redux, Chrome extension
   
 **Contact**:  
 🐦Twitter: [@elpwc](https://twitter.com/elpwc)  
