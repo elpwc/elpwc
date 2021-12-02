@@ -16,5 +16,5 @@ Here is **wniko(海胆子・うにこ)**, I'm a frontend backend programmer, ill
 About "elpwc":  
 A word from a [conlang](https://en.wikipedia.org/wiki/Constructed_language) called Kalsa Annueso I made before.  
 Sounds /ˌe̝ɭ.pʰʊkʰ/.  Meaning is "earth".  
-I've been using it as my internet identification from the beginning of middle school period up to now, 
+I've been using it as my internet identification from the beginning of middle school period up to now,  
 only because it never repeats with existing ids.  
