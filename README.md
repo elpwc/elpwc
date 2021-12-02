@@ -3,10 +3,10 @@
 Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend programmer, illustrator, wotagei performer.  
 
 💡**Skills**:   
-**Web**: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, etc.  
-**Desktop**: C#, C++，shell, batch, etc.  
-**Mobile**: Kotlin, Java.  
-**Other**: Photoshop, Premiem, Aegisub, etc.  
+- **Web**: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, etc.  
+- **Desktop**: C#, C++，shell, batch, etc.  
+- **Mobile**: Kotlin, Java.  
+- **Other**: Photoshop, Premiem, Aegisub, etc.  
   
 🎧**Develop Env**: VSCode, Windows 10, Thinkpad, コーラ🥤たっぷりと超うめ～ぇ淡梅酒🍶  
   
@@ -14,7 +14,7 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend pro
   
 **Contact**:  
 🐦Twitter: [@elpwc](https://twitter.com/elpwc)  
-🐧QQ: 2575784532  
+🐧QQ: [@unitower84](https://user.qzone.qq.com/2575784532/main) (2575784532)  
 💗Site: <http://www.elpwc.com/>  
 📫Email: elpwc@hotmail.com  
 🎨Pixiv: [うにこ/海胆子/elpwc](https://www.pixiv.net/users/18240502)  
