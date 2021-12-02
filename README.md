@@ -2,15 +2,20 @@
 
 Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend programmer, illustrator, wotagei performer.  
 
+🌍**Speaking Langs**:  
+- [中原官话秦陇片](https://en.wikipedia.org/wiki/Central_Plains_Mandarin)(mother tongue), [汉语]()(native), [日本語]()(near native), [English]()(daily conversation), [한국어]()(basic conversation)
+
 💡**Skills**:   
 - **Web**: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, etc.  
 - **Desktop**: C#, C++，shell, batch, etc.  
 - **Mobile**: Kotlin, Java.  
 - **Other**: Photoshop, Premiem, Aegisub, etc.  
   
-🎧**Develop Env**: VSCode, Windows 10, Thinkpad, コーラ🥤たっぷりと超うめ～ぇ淡梅酒🍶  
+🎧**Develop Env**:  
+- VSCode, Windows 10, Thinkpad, コーラ🥤たっぷりと超うめ～ぇ淡梅酒🍶  
   
-🎈**Recently Studying**: Vocaloid x Fruit Studio, Ruby on Rails, Redux, Chrome extension
+🎈**Recently Studying**:  
+- Vocaloid x Fruit Studio, Ruby on Rails, Redux, Chrome extension
   
 **Contact**:  
 🐦Twitter: [@elpwc](https://twitter.com/elpwc)  
