@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is **wniko(海胆子・うにこ)**, I'm a frontend backend programmer, illustrator, wotagei performer.  
+Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend programmer, illustrator, wotagei performer.  
 
 💡**Skills**: Typescript, Javascript, React.js, HTML5, CSS3, C#, PHP, Node.js, Ruby, Electron, MySQL, etc.  
   
