@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend programmer, illustrator, wotagei performer.  
+Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend&backend programmer, illustrator, wotagei performer.  
 
 🌍**Speaking Langs**:  
 - [中原官话秦陇片](https://en.wikipedia.org/wiki/Central_Plains_Mandarin)(mother tongue), [汉语]()(native), [日本語]()(near native), [English]()(daily conversation), [한국어]()(basic conversation)
@@ -15,7 +15,7 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend pro
 - VSCode, Windows 10, Thinkpad, コーラ🥤たっぷりと超うめ～ぇ淡梅酒🍶  
   
 🎈**Recently Studying**:  
-- Vocaloid x Fruit Studio, Ruby on Rails, Redux, Chrome extension
+- Vocaloid4 x Fruit Studio, Ruby on Rails, Redux, Chrome extension
   
 **Contact**:  
 🐦Twitter: [@elpwc](https://twitter.com/elpwc)  
@@ -26,6 +26,6 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend pro
   
 About "elpwc":  
 A word from a [conlang](https://en.wikipedia.org/wiki/Constructed_language) called *Kalsa Annueso* I made before.  
-Sounds /ˌe̝ɭ.pʰʊkʰ/.  Meaning is "*earth*".  
+Sounds /ˌe̝ɭ.pʰʊkʰ/.  Meaning is "*the earth*".  
 I've been using it as my internet identification from the beginning of middle school period up to now,  
-only because it never repeats with existing ids.  
+only because it never repeats with existing usernames.  
