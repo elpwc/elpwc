@@ -3,9 +3,9 @@
 Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend backend programmer, illustrator, wotagei performer.  
 
 💡**Skills**:   
-Web: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, etc.  
-Desktop: C#, C++，shell, batch, etc.
-Mobile: Kotlin, Java.
+**Web**: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, etc.  
+**Desktop**: C#, C++，shell, batch, etc.  
+**Mobile**: Kotlin, Java.  
   
 🎧**Develop Env**: VSCode, Windows 10, Thinkpad, コーラ🥤たっぷりと超うめ～ぇ淡梅酒🍶  
   
