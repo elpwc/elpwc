@@ -15,7 +15,7 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend&backend pro
 - VSCode, Windows 10, Thinkpad, コーラ🥤たっぷりと超うめ～ぇ淡梅酒🍶  
   
 🎈**Recently Studying**:  
-- Vocaloid4 x Fruit Studio, Ruby on Rails, Redux, Chrome extension
+- Vocaloid4 x Fruit Studio, Ruby on Rails, Redux, Chrome extension, Svelte, Lodash
   
 **Contact**:  
 🐦Twitter: [@elpwc](https://twitter.com/elpwc)  
