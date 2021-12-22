@@ -29,3 +29,6 @@ A word from a [conlang](https://en.wikipedia.org/wiki/Constructed_language) call
 Sounds /ˌe̝ɭ.pʰʊkʰ/.  Meaning is "*the earth*".  
 I've been using it as my internet identification from the beginning of middle school period up to now,  
 only because it never repeats with existing usernames.  
+
+[![Wniko GitHub stats](https://github-readme-stats.vercel.app/api?username=elpwc&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpwc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
