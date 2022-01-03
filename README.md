@@ -6,7 +6,7 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend&backend pro
 - [中原官话秦陇片](https://en.wikipedia.org/wiki/Central_Plains_Mandarin)(mother tongue), [汉语]()(native), [日本語]()(near native), [English]()(daily conversation), [한국어]()(basic conversation)
 
 💡**Skills**:   
-- **Web**: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, Python, etc.  
+- **Web**: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, Python, Svelte, etc.  
 - **Desktop**: C#, C++，shell, batch, etc.  
 - **Mobile**: Kotlin, Java.  
 - **Other**: Photoshop, Premiem, Aegisub, etc.  
@@ -15,7 +15,7 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend&backend pro
 - VSCode, Windows 10, Thinkpad, コーラ🥤たっぷりと超うめ～ぇ淡梅酒🍶  
   
 🎈**Recently Studying**:  
-- Vocaloid4 x Fruit Studio, Ruby on Rails, Redux, Chrome extension, Svelte, Lodash
+- Vocaloid4 x Fruit Studio, Ruby on Rails, Redux, Chrome extension, Vue.js
   
 **Contact**:  
 🐦Twitter: [@elpwc](https://twitter.com/elpwc)  
