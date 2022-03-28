@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋  
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=elpwc.elpwc&left_color=black&right_color=black)
 
 Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend&backend programmer, illustrator, wotagei performer.  
 
