@@ -28,7 +28,7 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend&backend pro
   
 About "elpwc":  
 A word from a [conlang](https://en.wikipedia.org/wiki/Constructed_language) called *Kalsa Annueso* I made before.  
-Pronounciation is /ˌe̝ɭ.pʰʊkʰ/ in IPA, with a meaning "*the earth*".  
+Its pronounciation is /ˌe̝ɭ.pʰʊkʰ/ in IPA, with a meaning "*the earth*".  
 I've been using it as my internet identification from the beginning of middle school period till now,  
 only because it never repeats with other existing usernames.  
 
