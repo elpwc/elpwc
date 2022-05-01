@@ -28,9 +28,9 @@ Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend&backend pro
   
 About "elpwc":  
 A word from a [conlang](https://en.wikipedia.org/wiki/Constructed_language) called *Kalsa Annueso* I made before.  
-Sounds /ˌe̝ɭ.pʰʊkʰ/.  Meaning is "*the earth*".  
-I've been using it as my internet identification from the beginning of middle school period up to now,  
-only because it never repeats with existing usernames.  
+Pronounciation is /ˌe̝ɭ.pʰʊkʰ/ in IPA, with a meaning "*the earth*".  
+I've been using it as my internet identification from the beginning of middle school period till now,  
+only because it never repeats with other existing usernames.  
 
 [![Wniko GitHub stats](https://github-readme-stats.vercel.app/api?username=elpwc&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpwc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
