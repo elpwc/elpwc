@@ -2,10 +2,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=elpwc.elpwc&left_color=black&right_color=black)
 
-Here is **wniko(海胆子・うにこ・우니코)**, I'm a frontend&backend programmer, illustrator, wotagei performer.  
+Here is **wniko(海胆子・うにこ・우니코)**, sometimes uni/うに/ぅに/uniuni/うにうに/污泥口, a frontend&backend programmer, illustrator, wotagei performer.  
 
 🌍**Speaking Langs**:  
-- [中原官话秦陇片](https://en.wikipedia.org/wiki/Central_Plains_Mandarin)(mother tongue), [汉语]()(native), [日本語]()(near native), [English]()(daily conversation), [한국어]()(basic conversation)
+- [中原官话秦陇片](https://en.wikipedia.org/wiki/Central_Plains_Mandarin)(mother tongue), 汉语(native), 日本語(near native), English(daily conversation), 한국어(basic conversation)
 
 💡**Skills**:   
 - **Web**: Typescript, Javascript, React.js, HTML5, CSS3, PHP, Node.js, Nest.js, Sequelize, Ruby, Electron, MySQL, Python, Svelte, etc.  
