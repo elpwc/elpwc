@@ -1,6 +1,4 @@
-### Hi there 👋  
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=elpwc.elpwc&left_color=black&right_color=black)
+### Hi 👋  
 
 Here is **wniko(海胆子・うにこ・우니코)**, sometimes uni/うに/ぅに/uniuni/うにうに/污泥口, a frontend&backend programmer, illustrator, wotagei performer.  
 
