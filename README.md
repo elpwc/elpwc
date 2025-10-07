@@ -6,9 +6,10 @@ Here is **wniko(海胆子・うにこ・우니코)**, sometimes uni/うに/ぅ�
 - 汉语(native), 日本語(near native), English(daily conversation)
 
 💡**Mainly Using Techs**:   
-- **Web**: Typescript, Javascript, React.js, PHP, Node.js, Nest.js, Electron, Python, Svelte, etc.  
-- **Desktop**: Mainly C#, etc. 
-- **Mobile**: Kotlin. 
+- **Web**: TypeScript, JavaScript, React, PHP, Node.js, Nestjs, Electron, Svelte, Next.js, etc.  
+- **Desktop**: Mainly C#.Net. 
+- **Mobile**: Kotlin.
+- **Data Science**: Python(torch, transformers, etc.).
   
 **Contact**:  
 🐦Twitter: [@elpwc](https://twitter.com/elpwc)  
